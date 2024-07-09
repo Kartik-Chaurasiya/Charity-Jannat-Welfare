@@ -1,27 +1,27 @@
 // ../assets/images.ts
 const images = [
   {
-    src: "src/assets/Img1.jpeg",
+    src: "public/Img1.jpeg",
     caption: "Free Physical checkup Campign"
   },
   {
-    src: "src/assets/Img2.jpeg",
+    src: "public/Img2.jpeg",
     caption: "Mummy and baby care after delivery",
   },
   {
-    src: "src/assets/Img3.jpeg",
+    src: "public/Img3.jpeg",
     caption: "Patient care",
   },
   {
-    src: "src/assets/Img4.jpg",
+    src: "public/Img4.jpg",
     caption: "Covid-19 patient care",
   },
   {
-    src: "src/assets/Img5.jpg",
+    src: "public/Img5.jpg",
     caption: "Home care service for people",
   },
   {
-    src: "src/assets/Img6.jpg",
+    src: "public/Img6.jpg",
     caption: "Small children care",
   }
   // More images here...

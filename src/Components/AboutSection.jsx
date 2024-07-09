@@ -24,7 +24,7 @@ const AboutSection = () => {
           </div>
           <div className="w-full p-4 mt-6 md:w-1/2 md:mt-0">
             <img 
-              src="src/assets/home.jpeg" 
+              src="public/home.jpeg" 
               className="hidden md:block w-full h-auto max-w-md mx-auto" 
               alt="Pastor ASHIQ MASIH" 
             />
