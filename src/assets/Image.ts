@@ -1,27 +1,28 @@
 // ../assets/images.ts
+
 const images = [
   {
-    src: "public/Img1.jpeg",
+    src: "https://i.ibb.co/F4RyM2R/Img1.jpg",
     caption: "Free Physical checkup Campign"
   },
   {
-    src: "public/Img2.jpeg",
+    src: "https://i.ibb.co/jbZPrF2/Img2.jpg",
     caption: "Mummy and baby care after delivery",
   },
   {
-    src: "public/Img3.jpeg",
+    src: "https://i.ibb.co/pzWydX3/Img3.jpg",
     caption: "Patient care",
   },
   {
-    src: "public/Img4.jpg",
+    src: "https://i.ibb.co/9wZbnzP/Img4.jpg",
     caption: "Covid-19 patient care",
   },
   {
-    src: "public/Img5.jpg",
+    src: "https://i.ibb.co/pvrmrFP/Img5.jpg",
     caption: "Home care service for people",
   },
   {
-    src: "public/Img6.jpg",
+    src: "https://i.ibb.co/qMqgTsc/Img6.jpg",
     caption: "Small children care",
   }
   // More images here...
